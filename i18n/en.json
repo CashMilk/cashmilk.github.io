@@ -327,7 +327,7 @@
     {
       "data": {
         "stringId": 414,
-        "text": "Your Project? \ud83d\udc40"
+        "text": "Your Project? "
       }
     },
     {
@@ -1306,6 +1306,66 @@
       "data": {
         "stringId": 10013,
         "text": "All deposit fees will be used for Milk Buybacks and Burns"
+      }
+    },
+	{
+      "data": {
+        "stringId": 10014,
+        "text": "Total Value Locked"
+      }
+    },
+	{
+      "data": {
+        "stringId": 10015,
+        "text": "Across all Farms and Pools"
+      }
+    },
+	{
+      "data": {
+        "stringId": 10016,
+        "text": "Max Transaction"
+      }
+    },
+	{
+      "data": {
+        "stringId": 10017,
+        "text": "Approve Contract"
+      }
+    },
+	{
+      "data": {
+        "stringId": 10018,
+        "text": "Earned"
+      }
+    },
+	{
+      "data": {
+        "stringId": 10019,
+        "text": "Staked"
+      }
+    },
+	{
+      "data": {
+        "stringId": 10020,
+        "text": "To raise (USD)"
+      }
+    },
+	{
+      "data": {
+        "stringId": 10021,
+        "text": "Total raised (of target)"
+      }
+    },
+	{
+      "data": {
+        "stringId": 10022,
+        "text": "Calculated based on current rates. Compounding once daily. Rates are estimates provided for your convenience only, and by no means represent guaranteed returns."
+      }
+    },
+	{
+      "data": {
+        "stringId": 10023,
+        "text": "Get"
       }
     }
   ],

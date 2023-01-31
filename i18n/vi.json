@@ -111,13 +111,13 @@
     {
       "data": {
         "stringId": 316,
-        "text": "Deposit"
+        "text": "Gửi tiền "
       }
     },
     {
       "data": {
         "stringId": 318,
-        "text": "Earn"
+        "text": "Nhận"
       }
     },
     {
@@ -213,7 +213,7 @@
     {
       "data": {
         "stringId": 356,
-        "text": "View on BscScan"
+        "text": "Xem trên BscScan"
       }
     },
     {
@@ -255,7 +255,7 @@
     {
       "data": {
         "stringId": 384,
-        "text": "Your Stake"
+        "text": "Cổ phần của bạn"
       }
     },
     {
@@ -309,37 +309,37 @@
     {
       "data": {
         "stringId": 408,
-        "text": "Total"
+        "text": "Tổng"
       }
     },
     {
       "data": {
         "stringId": 410,
-        "text": "End"
+        "text": "Hủy cổ phần"
       }
     },
     {
       "data": {
         "stringId": 412,
-        "text": "View project site"
+        "text": "Trang web dự án"
       }
     },
     {
       "data": {
         "stringId": 414,
-        "text": "Your Project? \ud83d\udc40"
+        "text": "Dự án của bạn? "
       }
     },
     {
       "data": {
         "stringId": 416,
-        "text": "Create a pool for your token"
+        "text": "Đăng ký token của bạn"
       }
     },
     {
       "data": {
         "stringId": 418,
-        "text": "Apply now"
+        "text": "Đăng ký"
       }
     },
     {
@@ -453,7 +453,7 @@
     {
       "data": {
         "stringId": 462,
-        "text": "Cancel"
+        "text": "Hủy"
       }
     },
     {
@@ -555,13 +555,13 @@
     {
       "data": {
         "stringId": 500,
-        "text": "IFO:Initial Farm Offerings"
+        "text": "IFO: Ưu đãi trang trại ban đầu"
       }
     },
     {
       "data": {
         "stringId": 502,
-        "text": "Buy new tokens with a brand new token sale model."
+        "text": "Mua mã thông báo mới với mô hình hoàn toàn mới."
       }
     },
     {
@@ -591,19 +591,19 @@
     {
       "data": {
         "stringId": 512,
-        "text": "Want to launch your own IFO?"
+        "text": "Muốn khởi chạy dự án của bạn?"
       }
     },
     {
       "data": {
         "stringId": 514,
-        "text": "Launch your project with Cash Milk Finance, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
+        "text": "Khởi động dự án của bạn với Cash Milk Finance, dự án AMM cung cấp thanh khoản sử dụng nhiều nhất trên chuỗi Binance Chain, để mang mã thông báo của bạn trực tiếp đến cộng đồng năng động và phát triển nhanh nhất."
       }
     },
     {
       "data": {
         "stringId": 516,
-        "text": "Apply to launch"
+        "text": "Đăng ký"
       }
     },
     {
@@ -639,7 +639,7 @@
     {
       "data": {
         "stringId": 532,
-        "text": "Harvest all (%count%)"
+        "text": "Thu hoạch (%count%)"
       }
     },
     {
@@ -651,43 +651,43 @@
     {
       "data": {
         "stringId": 536,
-        "text": "Total Minted"
+        "text": "Đã in"
       }
     },
     {
       "data": {
         "stringId": 538,
-        "text": "Total Burned"
+        "text": "Đã đốt"
       }
     },
     {
       "data": {
         "stringId": 540,
-        "text": "New MILK\/block"
+        "text": "MILK/khối"
       }
     },
     {
       "data": {
         "stringId": 542,
-        "text": "Farms & Staking"
+        "text": "Trang trại & Cổ phần"
       }
     },
     {
       "data": {
         "stringId": 544,
-        "text": "MILK to Harvest"
+        "text": "MILK để thu hoạch"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "MILK in Wallet"
+        "text": "MILK trong ví"
       }
     },
     {
       "data": {
         "stringId": 548,
-        "text": "Collecting MILK"
+        "text": "Thu hoạch MILK"
       }
     },
     {
@@ -723,7 +723,7 @@
     {
       "data": {
         "stringId": 562,
-        "text": "Harvest"
+        "text": "Thu hoạch"
       }
     },
     {
@@ -765,25 +765,25 @@
     {
       "data": {
         "stringId": 580,
-        "text": "You can unstake at any time. Rewards are calculated per block."
+        "text": "Kiếm mã thông báo mới với mô hình hoàn toàn mới"
       }
     },
     {
       "data": {
         "stringId": 582,
-        "text": "Launch Time"
+        "text": "Ra mắt"
       }
     },
     {
       "data": {
         "stringId": 584,
-        "text": "For Sale"
+        "text": "Rao bán"
       }
     },
     {
       "data": {
         "stringId": 586,
-        "text": "MILK to burn (USD)"
+        "text": "MILK để đốt (USD)"
       }
     },
     {
@@ -1113,19 +1113,19 @@
     {
       "data": {
         "stringId": 698,
-        "text": "Active"
+        "text": "Hoạt động"
       }
     },
     {
       "data": {
         "stringId": 699,
-        "text": "Staked only"
+        "text": "Đã tham gia"
       }
     },
     {
       "data": {
         "stringId": 700,
-        "text": "Inactive"
+        "text": "Tạm ngưng"
       }
     },
     {
@@ -1215,13 +1215,13 @@
 	{
       "data": {
         "stringId": 730,
-        "text": "Milk Finance on BNB Chain"
+        "text": "Milk Finance trên chuỗi BNB Chain"
       }
     },
 	{
       "data": {
         "stringId": 731,
-        "text": "New Era Finance: Defi vs NFTs"
+        "text": "Kỷ nguyên tài chính mới: Defi và NFT"
       }
     },
     {
@@ -1233,7 +1233,7 @@
     {
       "data": {
         "stringId": 10001,
-        "text": "Deposit Fee"
+        "text": "Phí đặt cọc"
       }
     },
     {
@@ -1251,13 +1251,13 @@
     {
       "data": {
         "stringId": 10004,
-        "text": "Circulating Supply"
+        "text": "Lưu thông"
       }
     },
     {
       "data": {
         "stringId": 10005,
-        "text": "Market Cap"
+        "text": "Vốn hóa"
       }
     },
     {
@@ -1306,6 +1306,66 @@
       "data": {
         "stringId": 10013,
         "text": "Tất cả phí đặt cọc sẽ được sử dụng cho việc mua lại Milk và đốt"
+      }
+    },
+	{
+      "data": {
+        "stringId": 10014,
+        "text": "Tổng giá trị khóa"
+      }
+    },
+	{
+      "data": {
+        "stringId": 10015,
+        "text": "Tất cả các trang trại"
+      }
+    },
+	{
+      "data": {
+        "stringId": 10016,
+        "text": "Hạn mức chuyển"
+      }
+    },
+	{
+      "data": {
+        "stringId": 10017,
+        "text": "Phê duyệt hợp đồng"
+      }
+    },
+	{
+      "data": {
+        "stringId": 10018,
+        "text": "Kiếm được"
+      }
+    },
+	{
+      "data": {
+        "stringId": 10019,
+        "text": "đặt cọc"
+      }
+    },
+	{
+      "data": {
+        "stringId": 10020,
+        "text": "Huy động (USD)"
+      }
+    },
+	{
+      "data": {
+        "stringId": 10021,
+        "text": "Tổng cộng (của mục tiêu)"
+      }
+    },
+	{
+      "data": {
+        "stringId": 10022,
+        "text": "Tính toán dựa trên tỷ giá hiện hành. Hợp chất một lần mỗi ngày. Tỷ giá là ước tính được cung cấp chỉ để thuận tiện cho bạn và không có nghĩa là thể hiện lợi nhuận được đảm bảo."
+      }
+    },
+	{
+      "data": {
+        "stringId": 10023,
+        "text": "Nhận"
       }
     }
   ],
