@@ -21,20 +21,20 @@
     "static/js/9.8e3493d4.chunk.js": "/static/js/9.8e3493d4.chunk.js",
     "static/js/9.8e3493d4.chunk.js.map": "/static/js/9.8e3493d4.chunk.js.map",
     "main.css": "/static/css/main.f37d19c0.chunk.css",
-    "main.js": "/static/js/main.b63d2191.chunk.js",
-    "main.js.map": "/static/js/main.b63d2191.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b32cdc2f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b32cdc2f.js.map",
+    "main.js": "/static/js/main.f61ce799.chunk.js",
+    "main.js.map": "/static/js/main.f61ce799.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.348e4fab.js",
+    "runtime-main.js.map": "/static/js/runtime-main.348e4fab.js.map",
     "static/js/12.45391e4f.chunk.js": "/static/js/12.45391e4f.chunk.js",
     "static/js/12.45391e4f.chunk.js.map": "/static/js/12.45391e4f.chunk.js.map",
     "static/js/13.9260ffd5.chunk.js": "/static/js/13.9260ffd5.chunk.js",
     "static/js/13.9260ffd5.chunk.js.map": "/static/js/13.9260ffd5.chunk.js.map",
-    "static/js/14.2eece5d7.chunk.js": "/static/js/14.2eece5d7.chunk.js",
-    "static/js/14.2eece5d7.chunk.js.map": "/static/js/14.2eece5d7.chunk.js.map",
+    "static/js/14.b9c295a0.chunk.js": "/static/js/14.b9c295a0.chunk.js",
+    "static/js/14.b9c295a0.chunk.js.map": "/static/js/14.b9c295a0.chunk.js.map",
     "static/js/15.053ac568.chunk.js": "/static/js/15.053ac568.chunk.js",
     "static/js/15.053ac568.chunk.js.map": "/static/js/15.053ac568.chunk.js.map",
-    "static/js/16.0f0f31f0.chunk.js": "/static/js/16.0f0f31f0.chunk.js",
-    "static/js/16.0f0f31f0.chunk.js.map": "/static/js/16.0f0f31f0.chunk.js.map",
+    "static/js/16.9bd8a1b1.chunk.js": "/static/js/16.9bd8a1b1.chunk.js",
+    "static/js/16.9bd8a1b1.chunk.js.map": "/static/js/16.9bd8a1b1.chunk.js.map",
     "static/js/17.dfdfcd25.chunk.js": "/static/js/17.dfdfcd25.chunk.js",
     "static/js/17.dfdfcd25.chunk.js.map": "/static/js/17.dfdfcd25.chunk.js.map",
     "static/js/18.6c2d27b9.chunk.js": "/static/js/18.6c2d27b9.chunk.js",
@@ -84,9 +84,9 @@
     "static/media/App.css": "/static/media/Pixellari.319bd0eb.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.b32cdc2f.js",
+    "static/js/runtime-main.348e4fab.js",
     "static/js/12.45391e4f.chunk.js",
     "static/css/main.f37d19c0.chunk.css",
-    "static/js/main.b63d2191.chunk.js"
+    "static/js/main.f61ce799.chunk.js"
   ]
 }
